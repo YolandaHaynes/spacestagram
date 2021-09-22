@@ -1,11 +1,10 @@
-# Getting Started with Create React App
-
-This project was used using [Create React App](https://github.com/facebook/create-react-app).
-
-## Spacestagram
+# Spacestagram
 This project used Create-React-App to display images taken from NASA'S A Picture Of Day API. 
 
+Please checkout the [spacestagram](yospacestagram.netlify.app)
+## Getting Started with Create React App
 
+This project was used using [Create React App](https://github.com/facebook/create-react-app).
 ## NASA API
 
 If you want to use this project, please sign up for [NASA'S API key](https://api.nasa.gov/).
@@ -16,7 +15,7 @@ Once you have your API Key, please create a .env file and inside make a variable
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
+The page will reload if you make edits.
 
 ### `npm build`
 
